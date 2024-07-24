@@ -1,8 +1,10 @@
-
+### Hi! I'm William  👋
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/willbehn)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/willbehn/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willbehn/)
 
-## Hi there 👋
+### About me:
+- 💻 I am in the 3rd year of a bachelor's degree in Informatics with specialization in programming and system architecture at the University of Oslo.
+- 📚 I also teach databases and data modeling at the University of Oslo.
 
 <!--
 **willbehn/willbehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
