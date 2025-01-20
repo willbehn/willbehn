@@ -4,8 +4,8 @@
 
 ### About me:
 - 💻 I am in the 3rd year of a bachelor's degree in Informatics with specialization in programming and system architecture at the University of Oslo.
-- ⚡ I am currently taking courses in algorithms, network security and functional programming aswell as working on projects on my own. 
-- 📚 I also teach databases and data modeling at the University of Oslo.
+- ⚡ I am currently taking courses in database systems, testing and machine learning aswell as working on projects on my own. 
+- 📚 I also teach Object-Oriented programming at the University of Oslo.
 
 <!--
 **willbehn/willbehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
