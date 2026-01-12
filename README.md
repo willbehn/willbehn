@@ -1,4 +1,3 @@
-### Hi! I'm William 🦔
-🎓 I’m a master’s student in Programming and System Architecture program at the Department of Informatics, University of Oslo (UiO).
-
-💻 I really enjoy building things, so feel free to check out my public repositories to see what I’ve been working on!
+- MSc. Informatics: Programming and System Architecture @ University of Oslo. 
+- Currently group teacher in Introduction to operating systems and data communication @ University of Oslo.
+- Former group teacher in Databases and data modelling and object oriented programming.
